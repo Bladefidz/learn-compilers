@@ -10,6 +10,7 @@ Learn compilers theory and practices.
 * [How compiler work](udacity/compilers%20-%20theory%20and%20practice/intoduction%20to%20compilers/notes/How%20compiler%20work.ipynb)
 * [Scanning and Tokenization](udacity/compilers%20-%20theory%20and%20practice/intoduction%20to%20compilers/notes/scanning%20and%20tokenization.ipynb)
 * [Parser](udacity/compilers%20-%20theory%20and%20practice/intoduction%20to%20compilers/notes/Parser.ipynb)
+* [Semantic Action](udacity/compilers%20-%20theory%20and%20practice/intoduction%20to%20compilers/notes/Semantic%20Action.ipynb)
 
 ## [CSE326: Data Structures](https://courses.cs.washington.edu/courses/cse326/)
 
